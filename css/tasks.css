@@ -13,7 +13,7 @@
     border-bottom: 1px solid #ddd;
 }
 
-.task__item--hidden {
+.tasks__item--hidden {
     display: none;
 }
 
@@ -47,9 +47,9 @@
 }
 
 .tasks__button--remove:hover {
-    background: hsl(348, 85%, 52);
+    background: hsl(348, 85%, 52%);
 }
 
 .tasks__button--remove:active {
-    background: hsl(348, 82%, 56%);
+    background: hsl(348, 84%, 64%);
 }
